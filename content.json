@@ -562,9 +562,9 @@
   },
   "research": {
     "kicker": "// 05 — Research",
-    "headingPlain": "Published work on ",
-    "headingAccent": "automation at scale.",
-    "subtitle": "Research and writing on business process automation, shared for anyone tackling the same problems.",
+    "headingPlain": "Research ",
+    "headingAccent": "Paper",
+    "subtitle": "Research and development of the system as a supportive diagnostic tool, designed to assist medical professionals rather than replace their expertise and clinical judgment.",
     "papers": [
       {
         "tag": "Research Paper",
