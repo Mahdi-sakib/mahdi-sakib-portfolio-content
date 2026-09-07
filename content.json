@@ -35,6 +35,10 @@
       {
         "label": "Contact",
         "href": "#contact"
+      },
+      {
+        "label": "Research",
+        "href": "#research"
       }
     ],
     "ctaLabel": "Let's talk"
